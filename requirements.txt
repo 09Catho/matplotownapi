@@ -1,3 +1,6 @@
-flask
-matplotlib
-numpy
+flask==3.0.0
+matplotlib==3.8.2
+numpy==1.26.2
+python-dotenv==1.0.0
+pytest==7.4.3
+gunicorn==21.2.0
